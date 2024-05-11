@@ -23,8 +23,7 @@ In this project, we analyze a dataset containing information about customer canc
 
 - Python
 - Pandas
-- Pandaslib
-- Plotlylib
+- Plotly
 
 ## Contributing
 
