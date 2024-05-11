@@ -25,7 +25,6 @@ In this project, we analyze a dataset containing information about customer canc
 - Pandas
 - Pandaslib
 - Plotlylib
-- etc. (add any additional technologies used)
 
 ## Contributing
 
